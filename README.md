@@ -16,6 +16,11 @@ Resources
 * [GraphQL Community Resources](https://graphql.org/community/): Links to conference talks, Slack channels, Twitter accounts, blogs, and more, curated by the GraphQL community
 * [O'Reilly's Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716): The upcoming GraphQL O'Reilly book by Eve Porcello & Alex Banks
 
+### Schema Design
+* [City to City Through Types - Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
+* [Union Types - Launchpad](https://launchpad.graphql.com/r94qxj5q4n)
+* [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
+
 ### GraphQL APIs
 * [GitHub API](https://developer.github.com/v4/): GitHub's public API
 * [SWAPI](https://graphql.org/swapi-graphql/): The Star Wars API
