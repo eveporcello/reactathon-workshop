@@ -4,6 +4,10 @@ Welcome to the GraphQL Workshop at Reactathon! I'm really happy that you're here
 
 Resources
 -----
+
+### Slides
+* [Slides](https://docs.google.com/presentation/d/1DTOvQQyskmvU1OzTh6bEsCROj3VioEHVkopNEq0MMOc/edit?usp=sharing)
+
 ### GraphQL
 * [GraphQL](http://www.graphql.org): The main website for the GraphQL project.
 * [GraphQL on GitHub](https://github.com/graphql/): The main GitHub repo for GraphQL's documentation, reference implementation (GraphQL.js), and other related projects
