@@ -1,6 +1,6 @@
 Reactathon Workshop -- September 7, 2018
 ============
-Welcome to the GraphQL Workshop at Reactathon! I'm really happy that you're here.
+Welcome to the GraphQL Workshop at Reactathon! 
 
 Resources
 -----
