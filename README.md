@@ -57,7 +57,7 @@ curl -X POST \
 * [Concatenating Links](https://codesandbox.io/s/ql4jlz54yq)
 
 ### Finished Files
-* [Backend Project](https://github.com/moonhighway/snowtooth)
+* [Backend Project](https://github.com/eveporcello/snowtooth-api)
 * [Frontend Project](https://github.com/eveporcello/snowtooth-ui)
 
 ### Instructor Info
