@@ -22,6 +22,7 @@ Resources
 * [Interfaces - Launchpad](https://launchpad.graphql.com/j8r375km3p)
 
 ### GraphQL APIs
+* [Song-Performers URL](https://kq5zzqkrl7.lp.gql.zone/graphql)
 * [GitHub API](https://developer.github.com/v4/): GitHub's public API
 * [SWAPI](https://graphql.org/swapi-graphql/): The Star Wars API
 * [Public GraphQL APIs](https://graphql.org/community): A list of public APIs that can be queried with GraphQL
