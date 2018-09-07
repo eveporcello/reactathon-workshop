@@ -60,6 +60,9 @@ curl -X POST \
 * [Backend Project](https://github.com/eveporcello/snowtooth-api)
 * [Frontend Project](https://github.com/eveporcello/snowtooth-ui)
 
+### Evaluation
+* [Feedback Form](https://goo.gl/forms/Ee6v4wN8fY3bCXWa2)
+
 ### Instructor Info
 * Eve Porcello: [@eveporcello](https://twitter.com/eveporcello)
 * [eve@moonhighway.com](mailto:eve@moonhighway.com)
