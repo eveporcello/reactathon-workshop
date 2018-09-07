@@ -15,6 +15,7 @@ Resources
 * [Apollo Docs](https://www.apollographql.com/docs): Apollo's documentation
 * [GraphQL Community Resources](https://graphql.org/community/): Links to conference talks, Slack channels, Twitter accounts, blogs, and more, curated by the GraphQL community
 * [O'Reilly's Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716): The upcoming GraphQL O'Reilly book by Eve Porcello & Alex Banks
+* [Learning GraphQL Book Files and Resources](https://github.com/moonhighway/learning-graphql/)
 
 ### Schema Design
 * [City to City Through Types - Launchpad](https://launchpad.graphql.com/lk3qk3zq7q)
